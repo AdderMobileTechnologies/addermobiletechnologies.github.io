@@ -32,7 +32,8 @@
         "#252525",
         "#333333",
         "#f6fffa",
-        "#4b4b4b"
+        "#4b4b4b",
+        "#424a4d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -45,7 +46,7 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/icon-green-padding-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W7G7PL4');</script>\n<!-- End Google Tag Manager -->",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
@@ -55,7 +56,18 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "placeholder",
-    "cookiesAlert": false,
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#252525",
+      "colorBg": "#20e47e",
+      "colorButton": "#333333",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "50",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience.",
+      "textButton": "Agree"
+    },
     "gdpr": false,
     "uniqCompNum": 61,
     "versionPublish": "4.12.1",
