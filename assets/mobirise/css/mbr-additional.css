@@ -3343,11 +3343,6 @@ section.lazy-placeholder:after {
   opacity: 1;
   visibility: visible;
 }
-.cid-rSj4O1ZrYM .team-item:hover .item-image::after {
-  background: rgba(0, 0, 0, 0.4);
-  opacity: 1;
-  visibility: visible;
-}
 .cid-rSj4O1ZrYM .builderCard .item-image::after {
   border-bottom-left-radius: 5rem;
 }
