@@ -1501,7 +1501,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rSpcyFtwKa {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -4833,6 +4833,95 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
+  }
+}
+.cid-rT7VJW14RY {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rT7VJW14RY .image-block {
+  margin: auto;
+}
+.cid-rT7VJW14RY figcaption {
+  position: relative;
+}
+.cid-rT7VJW14RY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rT7VJW14RY .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rT7VJW14RY DIV {
+  color: #333333;
+}
+.cid-rT7W3w1CZx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rT7W3w1CZx .social-media {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+  padding-right: 4rem;
+}
+.cid-rT7W3w1CZx .social-media ul {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+.cid-rT7W3w1CZx .social-media ul li {
+  padding: 4px;
+  display: inline-block;
+}
+.cid-rT7W3w1CZx .logo-section {
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+  padding-left: 4rem;
+}
+.cid-rT7W3w1CZx .icon-transition span {
+  color: #ffffff;
+  display: block;
+  padding: 0.1rem 0.8rem;
+  height: 3em;
+  line-height: 3em;
+  border-radius: 50%;
+  background-color: #20e47e;
+  width: 3em;
+  -webkit-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+  font-size: 13px;
+}
+.cid-rT7W3w1CZx .icon-transition span:hover {
+  background-color: #333333;
+}
+.cid-rT7W3w1CZx .mbr-text {
+  color: #767676;
+}
+@media (max-width: 991px) {
+  .cid-rT7W3w1CZx .social-media {
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-right: 15px;
+  }
+  .cid-rT7W3w1CZx .logo-section {
+    -webkit-justify-content: center;
+    justify-content: center;
+    padding-left: 15px;
+    margin-bottom: 1.5rem;
+  }
+  .cid-rT7W3w1CZx .mbr-text {
+    margin-bottom: 1.5rem;
   }
 }
 .cid-rSi9H6BHgW .navbar {
