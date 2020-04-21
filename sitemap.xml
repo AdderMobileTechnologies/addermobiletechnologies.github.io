@@ -15,9 +15,6 @@
 		<loc>https://adder.io/customers.html</loc>
 	</url>
 	<url>
-		<loc>https://adder.io/page5.html</loc>
-	</url>
-	<url>
 		<loc>https://adder.io/stop-coronavirus.html</loc>
 	</url>
 	<url>
@@ -46,5 +43,11 @@
 	</url>
 	<url>
 		<loc>https://adder.io/city-covid-maps.html</loc>
+	</url>
+	<url>
+		<loc>https://adder.io/smart-cities.html</loc>
+	</url>
+	<url>
+		<loc>https://adder.io/blog.html</loc>
 	</url>
 </urlset>
