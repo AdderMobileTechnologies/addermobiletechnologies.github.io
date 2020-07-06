@@ -72,7 +72,8 @@
     "gdpr": false,
     "uniqCompNum": 152,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "pwa-switcher": false
   },
   "pages": {
     "pricing.html": {
@@ -10762,7 +10763,7 @@
     },
     "maps.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Data visualizations and maps of movement around the United States",
         "title": "Maps",
         "order": 1,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-W7G7PL4');</script>\n<!-- End Google Tag Manager -->",
